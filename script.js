@@ -1,5 +1,5 @@
 const box = document.getElementById('box');
-const array = [6, 7, 8];
+const array = [6, 8, 23, 27, 31, 32, 33, 50, 85, 96, 108, 121, 136, 141, 150];
 
 function addElement(x) {
     let newDiv = document.createElement('div');
